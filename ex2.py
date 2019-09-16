@@ -1,0 +1,6 @@
+print('Introduce dos numeros:')
+print('Numero 1:')
+n1 = input()
+print('Numero 2:')
+n2 = input()
+print(int(n1)//int(n2))
